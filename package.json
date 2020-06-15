@@ -1,0 +1,15 @@
+{
+  "name": "colorgame3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colorGame.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Chinmay",
+  "license": "ISC",
+  "homepage": "https://chinnmay0.github.io./colorgame",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
